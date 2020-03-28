@@ -1,5 +1,5 @@
 example.property: "I AM A PROD PROPERTY OVERRIDE"
-spring.jpa.database: "exampledb11"
+spring.jpa.database: "MYSQL"
 spring.datasource.platform:  "mysql"
 spring.jpa.show-sql: "true"
 spring.database.driverClassName: "com.mysql.jdbc.Driver"
