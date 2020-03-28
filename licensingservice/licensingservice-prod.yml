@@ -1,4 +1,4 @@
-example.property: "I AM A PROD ==taozhaosheng===PROPERTY OVERRIDE"
+example.property: "I AM A PROD PROPERTY OVERRIDE"
 spring.jpa.database: "MYSQL"
 spring.datasource.platform:  "mysql"
 spring.jpa.show-sql: "true"
