@@ -1,4 +1,4 @@
-spring.jpa.database: "POSTGRESQL"
+spring.jpa.database: "================"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "false"
 spring.database.driverClassName: "org.postgresql.Driver"
