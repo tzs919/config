@@ -1,4 +1,4 @@
-spring.jpa.database: "================"
+spring.jpa.database: "=========abccdef======="
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "false"
 spring.database.driverClassName: "org.postgresql.Driver"
