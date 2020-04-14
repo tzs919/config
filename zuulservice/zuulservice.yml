@@ -1,4 +1,4 @@
 #zuul.ignored-services: '*'
-zuul.prefix: /api
+zuul.prefix: /api2
 zuul.routes.cargoservice: /cargo/**
 zuul.routes.customerservice: /customer/**
