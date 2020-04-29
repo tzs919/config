@@ -1,5 +1,5 @@
-zuul.ignored-services: '*'
+azuul.ignored-services: '*'
 zuul.prefix: /api
-zuul.routes.cargoservice: /cargo/**
+zuul.Xroutes.cargoservice: /cargo/**
 zuul.routes.customerservice: /customer/**
 hystrix.command.default.execution.timeout.enabled: false
