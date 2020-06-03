@@ -1,4 +1,4 @@
-example.product: "product from default000000"
+example.product: "product from default"
 spring.jpa.database: "MYSQL"
 spring.datasource.platform:  "mysql"
 spring.jpa.show-sql: "true"
